@@ -12,4 +12,6 @@ A collection of Yunohost webhooks to send notifications using Gotify
   * Get notified after an app is updated
   * Get notified when a successful ssh connection is established
 
- 
+## Screenshots :
+
+![Desktop Screenshot](https://github.com/DeMiro5001/Yunohost_Gotify_Notifications/blob/main/screenshots/Screenshot_20241202_195635.png)

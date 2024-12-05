@@ -14,4 +14,4 @@ A collection of Yunohost webhooks to send notifications using Gotify
 
 ## Screenshots :
 
-![Desktop Screenshot](https://github.com/DeMiro5001/Yunohost_Gotify_Notifications/blob/main/screenshots/Screenshot_20241202_195635.png)
+![Desktop Screenshot](https://raw.githubusercontent.com/DeMiro5001/Yunohost_Gotify_Notifications/refs/heads/main/screenshots/IMG_20241205_224629.png)

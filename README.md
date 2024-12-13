@@ -21,6 +21,7 @@ A collection of Yunohost webhooks to send notifications using Gotify
   * You need at least one gotify instance. 
   * You can have multiple servers sending notifications to one gotify instance. You don't need to install gotify on every server, just this app.
   * This app can be installed multiple times on the same server so it can send notifications to more than one gotify instance.
+  * YunoHost package [here](https://github.com/YunoHost-Apps/Yunohost_Gotify_Notifications_ynh).
 
 ## Screenshots :
 
